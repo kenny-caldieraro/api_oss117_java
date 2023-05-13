@@ -19,7 +19,7 @@ services:
       - traefik.http.routers.java_oss117_api.tls=true
       - traefik.http.routers.java_oss117_api.tls.certresolver=lets-encrypt
       - traefik.http.routers.java_oss117_api.entrypoints=websecure
-      - traefik.http.services.java_oss117_api.loadbalancer.server.port=80
+      - traefik.port=80
 
 networks:
   web:
