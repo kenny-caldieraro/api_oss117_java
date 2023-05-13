@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>OSS 117, Java API</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <aside>
+        <h1 class="mainTitle">OSS <span>117</span></h1>
+        <h2 class="subTitle">Java API</h2>
+
+        <button id="getQuote" type="submit">Get Quote</button>
+        <div id="quote"></div>
+      </aside>
+      <img class="logo" src="./assets/images/bg.png" alt="OSS 117" />
+    </div>
+    <div class="doc">
+      <h3>Documentation</h3>
+      <p>Endpoints</p>
+      <ul>
+        <li>https://java.oss117.click/quote/random</li>
+        <li>https://java.oss117.click/quote/[id]</li>
+        <li>https://java.oss117.click/quote/all</li>
+        <li>https://java.oss117.click/quote/perso/[name]</li>
+      </ul>
+
+      <p>Response exemple</p>
+      <pre>
+        {
+          "id": 42,
+          "content": "Je n'y suis pour rien. C'est l'inexpugnable arrogance de votre beauté qui m'asperge.",
+          "author": "Hubert Bonnisseur de la Bath (alias OSS 117)",
+          "film": "OSS 117 : Rio ne répond plus"
+        }
+      </pre>
+    </div>
+  </body>
+  <script src="./assets/js/main.js"></script>
+</html>
