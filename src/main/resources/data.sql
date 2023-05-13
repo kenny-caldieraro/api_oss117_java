@@ -139,16 +139,16 @@ VALUES
         ' OSS 117: Rio ne répond plus '
     ),
     (
-        ' J ’ aime me battre.',
+        ' J’aime me battre.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
-        ' J ’ ai été réveillé par un homme qui hurlait à la mort du haut de cette tour ! J ’ ai dû le faire taire.',
+        ' J’ai été réveillé par un homme qui hurlait à la mort du haut de cette tour ! J’ai dû le faire taire.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
         ' Vous avez bien une amicale des anciens nazis ? un club ? une association peut - être ? ',
@@ -156,67 +156,66 @@ VALUES
         ' OSS 117: Rio ne répond plus '
     ),
     (
-        ' 23 -0 ! C ’ est la piquette Jack ! ! ! Tu sais pas jouer,
-        Jack ! T ’ es mauvais hahahahaha ! ! ! ',
+        ' 23 - 0 ! C’est la piquette Jack ! ! ! Tu sais pas jouer, Jack ! T’es mauvais hahahahaha ! ! ! ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
-        ' J ’ aime quand on m ’ enduit d ’ huile.',
+        ' J’aime quand on m’enduit d’huile.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
         ' OSS 117,
         pour vous servir ! ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
         ' Ah ah bravo Bill,
-        en plein dans l ’ dos ! ',
+        en plein dans l’dos ! ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Rio ne répond plus '
     ),
     (
-        ' Ah ! C ’ était donc ça tout ce tintouin.',
+        ' Ah ! C’était donc ça tout ce tintouin.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
-        ' Jolie voiture ! Dommage qu ’ elle soit si sale ! ',
+        ' Jolie voiture ! Dommage qu’elle soit si sale ! ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
         ' Non,
         il jouait au jokari avec un ami,
-        l ’ élastique s ’ est distendu,
-        la balle est partie...il l ’ a suivie emporté par les flots...',
+        l’élastique s’est distendu,
+        la balle est partie...il l’a suivie emporté par les flots...',
         ' Larmina El Akmar Betouche ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
         ' Pas le moins du monde,
-        il aura fait une erreur sur la personne voilà tout...N ’ oublions pas que de son point de vue nous nous ressemblons tous ! ',
+        il aura fait une erreur sur la personne voilà tout...N’oublions pas que de son point de vue nous nous ressemblons tous ! ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Rio ne répond plus '
     ),
     (
-        ' La famille royale est peut - être dégénérée mais j ’ peux vous assurer que la princesse Al Tarouk vaut le détour.J ’ peux vous dire que quand elle s ’ affaire elle laisse son sang royal au vestiaire ! Mais elle gueule mon vieux ! On dirait une poissonnière de Ménilmontant ! ',
+        ' La famille royale est peut - être dégénérée mais j’peux vous assurer que la princesse Al Tarouk vaut le détour.J’peux vous dire que quand elle s’affaire elle laisse son sang royal au vestiaire ! Mais elle gueule mon vieux ! On dirait une poissonnière de Ménilmontant ! ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
-        ' Ah ! J ’ ai fait de l ’ humour juif,
-        je crois que c ’ est quand ce n ’ est pas rigolo et que ça ne parle pas de saucisses.',
+        ' Ah ! J’ai fait de l’humour juif,
+        je crois que c’est quand ce n’est pas rigolo et que ça ne parle pas de saucisses.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Rio ne répond plus '
     ),
@@ -224,8 +223,8 @@ VALUES
         ' Ma foi,
         comme un lundi,
         frais dans la matinée,
-        soleil dans l ’ après midi,
-        la recette des sports d ’ hiver réussis ! ',
+        soleil dans l’après midi,
+        la recette des sports d’hiver réussis ! ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Rio ne répond plus '
     ),
@@ -233,21 +232,21 @@ VALUES
         ' On est en 1955 les gars,
         faut se réveiller.Les ânes partout,
         les djellabas,
-        l ’ écriture illisible,
-        ça va hein ! S ’ agirait de grandir ! S ’ agirait de grandir...Moi j ’ suis dans le poulet,
-        eh ben j ’ vois rien que dans le poulet c ’ est un bordel ! ',
+        l’écriture illisible,
+        ça va hein ! S’agirait de grandir ! S’agirait de grandir...Moi j’suis dans le poulet,
+        eh ben j’vois rien que dans le poulet c’est un bordel ! ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
-        ' J ’ aime les panoramas.',
+        ' J’aime les panoramas.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
-        ' Je n ’ y suis pour rien.C ’ est l ’ inexpugnable arrogance de votre beauté qui m ’ asperge.',
+        ' Je n’y suis pour rien.C’est l’inexpugnable arrogance de votre beauté qui m’asperge.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Rio ne répond plus '
     ),
@@ -260,15 +259,15 @@ VALUES
         ' Vous voulez terminer comme ces poulets ? Vous voulez mourir Bramard ? Décapité,
         vidé,
         plumé,
-        c ’ est ça qu ’ vous voulez ? ',
+        c’est ça qu’vous voulez ? ',
         ' Raymond Pelletier ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
-        ' Mais je vous en prie.D ’ ailleurs,
-        ne dit - on pas qu ’ une femme qui éclabousse un homme,
-        c ’ est un peu comme la rosée d ’ une matinée de printemps.C ’ est la promesse d ’ une belle journée et la perspective d ’ une soirée enflammée.',
+        ' Mais je vous en prie.D’ailleurs,
+        ne dit - on pas qu’une femme qui éclabousse un homme,
+        c’est un peu comme la rosée d’une matinée de printemps.C’est la promesse d’une belle journée et la perspective d’une soirée enflammée.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Rio ne répond plus '
     ),
@@ -276,19 +275,19 @@ VALUES
         ' Ne pas fumer me tue.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
-        ' J ’ ai décidé d ’ appeler cela....des enregistroscopes ! Le temps que les écrans chauffent...',
+        ' J’ai décidé d’appeler cela....des enregistroscopes ! Le temps que les écrans chauffent...',
         ' Gerhard Moeller ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
         ' Mais,
         me juger de quoi ? Je vais ni faire à manger,
-        ni faire une petite table.Parce qu ’ on juge une femme sur sa cuisine,
-        c ’ est ça ? ',
+        ni faire une petite table.Parce qu’on juge une femme sur sa cuisine,
+        c’est ça ? ',
         ' Dolorès ',
         ' OSS 117: Rio ne répond plus '
     ),
@@ -302,21 +301,21 @@ VALUES
         des millions ! Vous êtes charmante mais vous voyez déjà ce que ça fait un million Larmina ? ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
-        ' Vous voyez l ’ automobile derrière moi ? Ça fait un petit moment que je l ’ observe..elle est absolument impeccable..C ’ est quand même bien mieux une voiture propre,
-        non ? À l ’ occasion,
+        ' Vous voyez l’automobile derrière moi ? Ça fait un petit moment que je l’observe..elle est absolument impeccable..C’est quand même bien mieux une voiture propre,
+        non ? À l’occasion,
         je vous mettrai un petit coup de polish.',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Le Caire,
-        nid d ’ espions '
+        nid d’espions '
     ),
     (
         ' Voilà Dolorès,
         cadeau...de Noël ! Non je dis Noël,
-        c ’ est par rapport à mon prénom.Sinon il y...il y a aussi les boules...Oh si,
-        ça c ’ est rigolo ! Il faut absolument que j ’ appelle Armand ! ',
+        c’est par rapport à mon prénom.Sinon il y...il y a aussi les boules...Oh si,
+        ça c’est rigolo ! Il faut absolument que j’appelle Armand ! ',
         ' Hubert Bonnisseur de la Bath (alias OSS 117) ',
         ' OSS 117: Rio ne répond plus '
     );
