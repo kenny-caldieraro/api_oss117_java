@@ -136,16 +136,8 @@ button {
 
 @media screen and (max-width: 500px) {
   .container {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
-  }
-
-  .logo {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 100%;
-    height: auto;
   }
 }
