@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  java_oss117_api:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    restart: always
+    image: java_oss117_api
+    container_name: java_oss117_api
+    stdin_open: true
+    tty: true
+    expose:
+      - 9000
+    networks:
+      - web
+    labels:
+      - traefik.http.routers.java_oss117_api.rule=Host(`java.oss117.click`)
+      - traefik.http.routers.java_oss117_api.tls=true
+      - traefik.http.routers.java_oss117_api.tls.certresolver=lets-encrypt
+      - traefik.http.routers.java_oss117_api.entrypoints=websecure
+      - traefik.http.services.java_oss117_api.loadbalancer.server.port=80
+
+networks:
+  web:
+    external: true
