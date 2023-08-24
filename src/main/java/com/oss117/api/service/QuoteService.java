@@ -48,6 +48,17 @@ public class QuoteService {
         }
     }
 
+    // coffee quote
+    public Optional<Quote> getCoffeeQuote() {
+    //    return status 418
+    final Optional<Quote> quote = {
+        "author": "Teapot",
+        "content": "I'm a teapot"
+        "status": "418"
+    }
+        return quote;
+    }
+
     // personalize quote
     public Optional<Quote> getPersonalizeQuote(final String name) {
         Optional<Quote> quote = quoteRepository.findById((long) 29);

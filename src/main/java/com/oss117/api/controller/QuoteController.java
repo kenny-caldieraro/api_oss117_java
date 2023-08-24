@@ -43,6 +43,11 @@ public class QuoteController {
         return quoteService.getRandomQuote().get();
     }
 
+    @GetMapping(value = "/quote/coffee")
+    public Quote getCoffeeQuote() {
+        return quoteService.getCoffeeQuote().get();
+    }
+
     @GetMapping(value = "/quote/perso/{name}")
     public Quote getPersonalizeQuote(@PathVariable("name") final String name) {
         return quoteService.getPersonalizeQuote(name).get();
